@@ -77,4 +77,4 @@ git push origin main
 
 Proyecto desarrollado aplicando conceptos de Big Data, Python y bases de datos NoSQL.
 Jaime Llanos Bardales
-Fecha: 12.10.2025
+Fecha: 16.10.2025
